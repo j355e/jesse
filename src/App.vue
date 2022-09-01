@@ -4,6 +4,7 @@
 
 <template>
 <div>
+  test
   <hello-world> hi </hello-world>
 </div>
 </template>
